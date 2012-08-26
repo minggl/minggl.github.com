@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -14,7 +14,7 @@ title : 等兔子的树
 tagline: Site
 author :
   name : mingcong li
-  email : fengyufei321@163.com
+  email : mingcongli@gamil.com
   github : minggl
   twitter : minggl
   feedburner : feedname
